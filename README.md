@@ -1,5 +1,10 @@
 
-*"ExpenseHive" is a web-based expense manager application designed to help users efficiently manage, analyze, and track all their expenses.
+"ExpenseHive" is a web-based expense manager application designed to help users efficiently manage, analyze, and track all their expenses.
+
+The application is built using React, a popular JavaScript library for building user interfaces. React's component-based architecture allows for a modular and maintainable codebase. The project utilizes Firebase, a comprehensive backend-as-a-service platform, for user authentication and data storage. Firebase's user authentication feature ensures a secure login process, allowing users to create accounts or sign in using their Gmail credentials. 
+
+The application includes a feature to categorize expenses based on their nature, such as Food, Automobile, Travel, Shopping, and Investments. This categorization allows users to have a clear understanding of where their money is being spent. It also provides interactive statistical graphs that present comprehensive expense analysis over different periods, such as daily, monthly, and yearly.
+These graphical representations help users visualize their spending patterns and financial trends. To enhance financial knowledge and awareness, the application integrates finance-related blogs and news features. Users can access relevant articles and updates within the app.
 
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/75715358/205714477-2a922ce0-4530-4807-8ca8-ca7d45d2252e.png)
