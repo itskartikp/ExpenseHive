@@ -1,4 +1,6 @@
-A React web app for managing as well as analysing expenses
+
+*"ExpenseHive" is a web-based expense manager application designed to help users efficiently manage, analyze, and track all their expenses.
+
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/75715358/205714477-2a922ce0-4530-4807-8ca8-ca7d45d2252e.png)
 ![Screenshot (184)](https://user-images.githubusercontent.com/75715358/205714558-159961cc-7784-44cd-a702-129e68e4824d.png)
